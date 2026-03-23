@@ -1,0 +1,7 @@
+*.avi
+.idea/
+*.iml
+datasets/fr5_description/
+models/checkpoints/
+datasets/armor_8c_new/
+__pycache__/
